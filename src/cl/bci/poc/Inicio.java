@@ -12,6 +12,8 @@ public class Inicio {
 		
 		
 		
+		
+		
 		System.out.println("HolaMundo2222222           2222      1111             ");
 	}
 
