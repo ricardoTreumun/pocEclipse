@@ -9,6 +9,8 @@ public class Inicio {
 		System.out.println("HolaMundo3");
 		System.out.println("HolaMundo4");
 		System.out.println("HolaMundo11111");
+		
+		System.out.println("HolaMundo2222222");
 	}
 
 }
