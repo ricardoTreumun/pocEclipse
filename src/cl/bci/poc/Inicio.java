@@ -11,6 +11,8 @@ public class Inicio {
 		System.out.println("HolaMundo4");
 		
 		
+		
+		
 	}
 
 }
