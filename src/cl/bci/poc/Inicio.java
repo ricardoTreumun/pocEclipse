@@ -9,6 +9,7 @@ public class Inicio {
 		System.out.println("HolaMundo3");
 		
 		
+		
 	}
 
 }
